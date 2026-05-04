@@ -1,0 +1,3 @@
+/Users/nick/Desktop/NickTetris/build/CMakeFiles/NickTetris.dir
+/Users/nick/Desktop/NickTetris/build/CMakeFiles/edit_cache.dir
+/Users/nick/Desktop/NickTetris/build/CMakeFiles/rebuild_cache.dir
