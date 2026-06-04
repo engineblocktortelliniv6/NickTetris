@@ -1,1 +1,2 @@
 This is a year 1 CS project I made for my C++ final project. It's a Tetris clone using c++ with the raylib library.
+This program requires the raylib library to be installed on your computer to compile: https://www.raylib.com/index.html
